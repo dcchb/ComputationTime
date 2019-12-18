@@ -1,4 +1,5 @@
-Computation Time work by David Harris-Birtill and Rosemary Harris-Birtill
+Code to go with Computation Time paper by David Harris-Birtill and Rosemary Harris-Birtill
+Please cite our paper if you use this code.
 
 Computation Time work is licensed under a
 Creative Commons Attribution 4.0 International License.
